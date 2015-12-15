@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: c3876bfec56b88f4fb578e2249ffd2ff
+timeCreated: 1449236370
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chromebar_front
+    100004: exhaustion_left
+    100006: exhaustion_right
+    100008: front_grill
+    100010: frontlight_left
+    100012: frontlight_left_MeshPart0
+    100014: frontlight_left_MeshPart1
+    100016: frontlight_right
+    100018: frontlight_right_MeshPart0
+    100020: frontlight_right_MeshPart1
+    100022: glasslight
+    100024: Karosserie
+    100026: lens_002
+    100028: mirror_left
+    100030: mirror_right
+    100032: re_light_groups
+    100034: rear_plate
+    100036: rim
+    100038: tire
+    100040: tire1
+    100042: tire1_001
+    100044: tire1_002
+    100046: tire1_003
+    400000: //RootNode
+    400002: chromebar_front
+    400004: exhaustion_left
+    400006: exhaustion_right
+    400008: front_grill
+    400010: frontlight_left
+    400012: frontlight_left_MeshPart0
+    400014: frontlight_left_MeshPart1
+    400016: frontlight_right
+    400018: frontlight_right_MeshPart0
+    400020: frontlight_right_MeshPart1
+    400022: glasslight
+    400024: Karosserie
+    400026: lens_002
+    400028: mirror_left
+    400030: mirror_right
+    400032: re_light_groups
+    400034: rear_plate
+    400036: rim
+    400038: tire
+    400040: tire1
+    400042: tire1_001
+    400044: tire1_002
+    400046: tire1_003
+    2300000: chromebar_front
+    2300002: exhaustion_left
+    2300004: exhaustion_right
+    2300006: front_grill
+    2300008: frontlight_left_MeshPart0
+    2300010: frontlight_left_MeshPart1
+    2300012: frontlight_right_MeshPart0
+    2300014: frontlight_right_MeshPart1
+    2300016: glasslight
+    2300018: Karosserie
+    2300020: lens_002
+    2300022: mirror_left
+    2300024: mirror_right
+    2300026: re_light_groups
+    2300028: rear_plate
+    2300030: rim
+    2300032: tire
+    2300034: tire1
+    2300036: tire1_001
+    2300038: tire1_002
+    2300040: tire1_003
+    3300000: chromebar_front
+    3300002: exhaustion_left
+    3300004: exhaustion_right
+    3300006: front_grill
+    3300008: frontlight_left_MeshPart0
+    3300010: frontlight_left_MeshPart1
+    3300012: frontlight_right_MeshPart0
+    3300014: frontlight_right_MeshPart1
+    3300016: glasslight
+    3300018: Karosserie
+    3300020: lens_002
+    3300022: mirror_left
+    3300024: mirror_right
+    3300026: re_light_groups
+    3300028: rear_plate
+    3300030: rim
+    3300032: tire
+    3300034: tire1
+    3300036: tire1_001
+    3300038: tire1_002
+    3300040: tire1_003
+    4300000: exhaustion_right
+    4300002: frontlight_left_MeshPart0
+    4300004: frontlight_left_MeshPart1
+    4300006: rim
+    4300008: lens_002
+    4300010: chromebar_front
+    4300012: mirror_right
+    4300014: re_light_groups
+    4300016: tire
+    4300018: glasslight
+    4300020: exhaustion_left
+    4300022: front_grill
+    4300024: rear_plate
+    4300026: Karosserie
+    4300028: mirror_left
+    4300030: frontlight_right_MeshPart0
+    4300032: frontlight_right_MeshPart1
+    4300034: tire1
+    4300036: tire1_001
+    4300038: tire1_002
+    4300040: tire1_003
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
